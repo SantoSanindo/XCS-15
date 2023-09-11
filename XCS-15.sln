@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.7.34009.444
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "XCS-15", "XCS-15\XCS-15.vbproj", "{A183E236-EFEF-42D9-9D37-46213DD587BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B5DAF3F2-C790-45EA-846A-D5BC01C13778}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
